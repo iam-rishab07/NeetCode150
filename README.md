@@ -46,5 +46,4 @@ The solutions are organized by topic within the `src/` directory.
 
 ---
 
-**Created With ❤️ by Rishi
-Happy Coding!** 💻
+**Created With ❤️ by Rishi**
