@@ -1,15 +1,15 @@
 package Arrays; // LeetCode : 217
 
-import java.util.HashSet;
+import java.util.*;
 
 public class ContainsDuplicate {
     public boolean containsDuplicate(int[] nums) {
-        HashSet<Integer> set = new HashSet<>();
-        for(int n:nums)
+        Set<Integer> set = new HashSet<>();
+        for(int num:nums)
         {
-            if(set.contains(n)) return true;
-            else set.add(n);
+            if(!set.add(num)) return true;
         }
         return false;
     }
 }
+
