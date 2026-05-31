@@ -1,4 +1,4 @@
-package Arrays; // LeetCode : 217
+package ArraysAndHashing; // LeetCode : 217
 
 import java.util.*;
 

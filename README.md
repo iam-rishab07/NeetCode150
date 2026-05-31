@@ -6,7 +6,7 @@ This repository contains my personal solutions to the **NeetCode 150** curriculu
 
 The solutions are organized by topic within the `src/` directory.
 
-* [`src/Arrays`](https://github.com/iam-rishab07/NeetCode150/tree/main/src/Arrays) - Hashing and Array manipulation.
+* [`src/ArraysAndHashing`](https://github.com/iam-rishab07/NeetCode150/tree/main/src/Arrays) - Hashing and Array manipulation.
 * [`src/Strings`](https://github.com/iam-rishab07/NeetCode150/tree/main/src/Strings) - String manipulation and pattern matching.
 
 ---
@@ -15,7 +15,7 @@ The solutions are organized by topic within the `src/` directory.
 
 | Category | Status |
 | :--- | :--- |
-| **Arrays & Hashing** | 🟢 In Progress |
+| **ArraysAndHashing & Hashing** | 🟢 In Progress |
 | **Strings** | 🟢 In Progress |
 | **Two Pointers** | ⚪ Pending |
 | **Sliding Window** | ⚪ Pending |
