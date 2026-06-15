@@ -9,6 +9,7 @@ public class TopKFrequentElements {
             map.put(n,map.getOrDefault(n,0)+1);
         }
 
+        // create priority queue that stores elements in ascending order
         Queue<Integer> minHeap = new PriorityQueue<>(
                 (a,b)-> map.get(a)-map.get(b)
         );
