@@ -1,7 +1,6 @@
-import java.util.ArrayList;
+package Practice;
+
 import java.util.Arrays;
-import java.util.HashMap;
-import java.util.List;
 
 import static java.lang.Character.isLetterOrDigit;
 
