@@ -15,10 +15,10 @@ The solutions are organized by topic within the `src/` directory.
 
 | Category | Status |
 | :--- | :--- |
-| **ArraysAndHashing & Hashing** | 🟢 In Progress |
-| **Strings** | 🟢 In Progress |
-| **Two Pointers** | ⚪ Pending |
-| **Sliding Window** | ⚪ Pending |
+| **ArraysAndHashing & Hashing** | 🟢 Completed |
+| **Strings** | 🟢 Completed |
+| **Two Pointers** | 🟢 Completed |
+| **Sliding Window** | 🟢 Completed |
 | **Stack** | ⚪ Pending |
 | **Binary Search** | ⚪ Pending |
 | **Linked List** | ⚪ Pending |
